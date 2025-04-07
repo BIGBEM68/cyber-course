@@ -1,0 +1,7 @@
+sentence= input('Enter a sentence: ')
+e=sentence.count("e")
+a=sentence.count("a")
+o=sentence.count("o")
+u=sentence.count("u")
+i=sentence.count("i")
+print(f"E: {e} \nA: {a} \nO: {o} \nU: {u} \nI: {i} ")
